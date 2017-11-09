@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1509831436 source:/home/henrique/Documentos/roteiro8/r8q3/main.cpp
+	<iostream>
+	"SistemaGerenciaFolha.h"
+
+1509819686 source:/home/henrique/Documentos/roteiro8/r8q3/src/Funcionario.cpp
+	"Funcionario.h"
+
+1509819686 /home/henrique/Documentos/roteiro8/r8q3/include/Funcionario.h
+	<iostream>
+
+1509830806 source:/home/henrique/Documentos/roteiro8/r8q3/src/Horista.cpp
+	"Horista.h"
+
+1509819686 /home/henrique/Documentos/roteiro8/r8q3/include/Horista.h
+	"Funcionario.h"
+
+1509819814 source:/home/henrique/Documentos/roteiro8/r8q3/src/Assalariado.cpp
+	"Assalariado.h"
+
+1509819814 /home/henrique/Documentos/roteiro8/r8q3/include/Assalariado.h
+	<Funcionario.h>
+
+1509831286 source:/home/henrique/Documentos/roteiro8/r8q3/src/Comissionado.cpp
+	"Comissionado.h"
+
+1509819814 /home/henrique/Documentos/roteiro8/r8q3/include/Comissionado.h
+	"Funcionario.h"
+
+1509830406 source:/home/henrique/Documentos/roteiro8/r8q3/src/SistemaGerenciaFolha.cpp
+	"SistemaGerenciaFolha.h"
+
+1509826493 /home/henrique/Documentos/roteiro8/r8q3/include/SistemaGerenciaFolha.h
+	"Funcionario.h"
+	"Assalariado.h"
+	"Horista.h"
+	"Comissionado.h"
+	<string.h>
+	<stdio.h>
+
+1510236279 source:/home/aluno/Documentos/roteiro10/r10q3/main.cpp
+	<iostream>
+	"SistemaGerenciaFolha.h"
+
+1510235554 /home/aluno/Documentos/roteiro10/r10q3/include/SistemaGerenciaFolha.h
+	"Funcionario.h"
+	"Assalariado.h"
+	"Horista.h"
+	"Comissionado.h"
+	<string.h>
+	<stdio.h>
+	"FuncionarioNaoExisteException.h"
+
+1510233970 /home/aluno/Documentos/roteiro10/r10q3/include/Funcionario.h
+	<iostream>
+
+1510233970 /home/aluno/Documentos/roteiro10/r10q3/include/Assalariado.h
+	<Funcionario.h>
+
+1510233970 /home/aluno/Documentos/roteiro10/r10q3/include/Horista.h
+	"Funcionario.h"
+
+1510233970 /home/aluno/Documentos/roteiro10/r10q3/include/Comissionado.h
+	"Funcionario.h"
+
+1510233970 source:/home/aluno/Documentos/roteiro10/r10q3/src/Assalariado.cpp
+	"Assalariado.h"
+
+1510233970 source:/home/aluno/Documentos/roteiro10/r10q3/src/Comissionado.cpp
+	"Comissionado.h"
+
+1510233970 source:/home/aluno/Documentos/roteiro10/r10q3/src/Funcionario.cpp
+	"Funcionario.h"
+
+1510233970 source:/home/aluno/Documentos/roteiro10/r10q3/src/Horista.cpp
+	"Horista.h"
+
+1510235689 source:/home/aluno/Documentos/roteiro10/r10q3/src/SistemaGerenciaFolha.cpp
+	"SistemaGerenciaFolha.h"
+
+1510234133 source:/home/aluno/Documentos/roteiro10/r10q3/src/FuncionarioNaoExisteException.cpp
+	"FuncionarioNaoExisteException.h"
+
+1510234133 /home/aluno/Documentos/roteiro10/r10q3/include/FuncionarioNaoExisteException.h
+	<exception>
+

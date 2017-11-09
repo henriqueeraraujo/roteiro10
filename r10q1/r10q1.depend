@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1510243241 source:/home/aluno/Documentos/roteiro10/r10q1/main.cpp
+	<iostream>
+	"TestaValidaNumero.h"
+
+1510243325 source:/home/aluno/Documentos/roteiro10/r10q1/src/TestaValidaNumero.cpp
+	"TestaValidaNumero.h"
+
+1510242760 /home/aluno/Documentos/roteiro10/r10q1/include/TestaValidaNumero.h
+	"ValorAbaixoException.h"
+	"ValorAcimaException.h"
+	"ValorMuitoAcimaException.h"
+
+1510242746 /home/aluno/Documentos/roteiro10/r10q1/include/ValorAbaixoException.h
+	<exception>
+
+1510242746 /home/aluno/Documentos/roteiro10/r10q1/include/ValorAcimaException.h
+	<exception>
+
+1510242746 /home/aluno/Documentos/roteiro10/r10q1/include/ValorMuitoAcimaException.h
+	<exception>
+
+1510242781 source:/home/aluno/Documentos/roteiro10/r10q1/src/ValorAbaixoException.cpp
+	"ValorAbaixoException.h"
+
+1510242781 source:/home/aluno/Documentos/roteiro10/r10q1/src/ValorAcimaException.cpp
+	"ValorAcimaException.h"
+
+1510242781 source:/home/aluno/Documentos/roteiro10/r10q1/src/ValorMuitoAcimaException.cpp
+	"ValorMuitoAcimaException.h"
+

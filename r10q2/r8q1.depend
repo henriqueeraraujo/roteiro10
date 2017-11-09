@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1508854994 source:/home/aluno/Documentos/roteiro8/r8q1/main.cpp
+	<iostream>
+	"Conta.h"
+	"ContaEspecial.h"
+
+1508854440 source:/home/aluno/Documentos/roteiro8/r8q1/src/ContaEspecial.cpp
+	"ContaEspecial.h"
+
+1508854458 /home/aluno/Documentos/roteiro8/r8q1/include/ContaEspecial.h
+	"Conta.h"
+
+1508853348 /home/aluno/Documentos/roteiro8/r8q1/include/Conta.h
+	"IConta.h"
+	<iostream>
+
+1508853348 /home/aluno/Documentos/roteiro8/r8q1/include/IConta.h
+
+1508850354 source:/home/aluno/Documentos/roteiro8/r8q1/src/IConta.cpp
+	"IConta.h"
+
+1508854928 source:/home/aluno/Documentos/roteiro8/r8q1/src/Conta.cpp
+	"Conta.h"
+
+1508934618 source:/home/henrique/Documentos/roteiro8/r8q1/main.cpp
+	<iostream>
+	"Conta.h"
+	"ContaEspecial.h"
+
+1508934618 /home/henrique/Documentos/roteiro8/r8q1/include/Conta.h
+	"IConta.h"
+	<iostream>
+
+1508933537 /home/henrique/Documentos/roteiro8/r8q1/include/IConta.h
+
+1508933537 /home/henrique/Documentos/roteiro8/r8q1/include/ContaEspecial.h
+	"Conta.h"
+
+1508933537 source:/home/henrique/Documentos/roteiro8/r8q1/src/Conta.cpp
+	"Conta.h"
+
+1508933537 source:/home/henrique/Documentos/roteiro8/r8q1/src/ContaEspecial.cpp
+	"ContaEspecial.h"
+
+1508933537 source:/home/henrique/Documentos/roteiro8/r8q1/src/IConta.cpp
+	"IConta.h"
+
+1510233970 source:/home/aluno/Documentos/roteiro10/r10q2/main.cpp
+	<iostream>
+	"Conta.h"
+	"ContaEspecial.h"
+
+1510244477 /home/aluno/Documentos/roteiro10/r10q2/include/Conta.h
+	"IConta.h"
+	<iostream>
+	<SaldoNaoDisponivelException.h>
+
+1510244541 /home/aluno/Documentos/roteiro10/r10q2/include/IConta.h
+
+1510244496 /home/aluno/Documentos/roteiro10/r10q2/include/ContaEspecial.h
+	"Conta.h"
+
+1510244796 source:/home/aluno/Documentos/roteiro10/r10q2/src/Conta.cpp
+	"Conta.h"
+
+1510244886 source:/home/aluno/Documentos/roteiro10/r10q2/src/ContaEspecial.cpp
+	"ContaEspecial.h"
+
+1510244541 source:/home/aluno/Documentos/roteiro10/r10q2/src/IConta.cpp
+	"IConta.h"
+
+1510244348 source:/home/aluno/Documentos/roteiro10/r10q2/src/SaldoNaoDisponivelException.cpp
+	"SaldoNaoDisponivelException.h"
+
+1510244348 /home/aluno/Documentos/roteiro10/r10q2/include/SaldoNaoDisponivelException.h
+	<exception>
+

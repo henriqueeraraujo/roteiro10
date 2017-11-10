@@ -75,3 +75,30 @@
 1510244348 /home/aluno/Documentos/roteiro10/r10q2/include/SaldoNaoDisponivelException.h
 	<exception>
 
+1510323419 source:/home/henrique/Documentos/roteiro10/r10q2/main.cpp
+	<iostream>
+	"Conta.h"
+	"ContaEspecial.h"
+
+1510324307 /home/henrique/Documentos/roteiro10/r10q2/include/Conta.h
+	"IConta.h"
+	<iostream>
+	"SaldoNaoDisponivelException.h"
+
+1510323419 /home/henrique/Documentos/roteiro10/r10q2/include/IConta.h
+
+1510324339 /home/henrique/Documentos/roteiro10/r10q2/include/SaldoNaoDisponivelException.h
+	<exception>
+
+1510323419 /home/henrique/Documentos/roteiro10/r10q2/include/ContaEspecial.h
+	"Conta.h"
+
+1510323419 source:/home/henrique/Documentos/roteiro10/r10q2/src/Conta.cpp
+	"Conta.h"
+
+1510323419 source:/home/henrique/Documentos/roteiro10/r10q2/src/ContaEspecial.cpp
+	"ContaEspecial.h"
+
+1510323419 source:/home/henrique/Documentos/roteiro10/r10q2/src/IConta.cpp
+	"IConta.h"
+

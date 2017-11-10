@@ -37,13 +37,16 @@
 		<Unit filename="include/Conta.h" />
 		<Unit filename="include/ContaEspecial.h" />
 		<Unit filename="include/IConta.h" />
+		<Unit filename="include/SaldoNaoDisponivelException.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Conta.cpp" />
 		<Unit filename="src/ContaEspecial.cpp" />
 		<Unit filename="src/IConta.cpp" />
+		<Unit filename="src/SaldoNaoDisponivelException.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />
+			<envvars />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>

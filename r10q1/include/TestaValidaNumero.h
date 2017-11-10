@@ -4,7 +4,7 @@
 #include "ValorAcimaException.h"
 #include "ValorMuitoAcimaException.h"
 
-class TestaValidaNumero : public ValorAbaixoException, ValorAcimaException, ValorMuitoAcimaException
+class TestaValidaNumero
 {
     protected:
 
